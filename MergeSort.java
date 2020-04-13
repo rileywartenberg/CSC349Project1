@@ -56,6 +56,7 @@ public class MergeSort{
      for(int j = left; j <= right; j++){
         arr[j] = temp[tIndex];
         tIndex++;
+
        //  System.out.print(temp[j]);
       }
    }
